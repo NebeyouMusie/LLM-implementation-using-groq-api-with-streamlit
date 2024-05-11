@@ -28,8 +28,11 @@
 
 ## Contributions
  - Contributions are welcomed
+
+## Support
+ - Give this project a star ⭐ if you like it
    
-## Contact
+## Author
  - LinkedIn: [Nebeyou Musie](https://www.linkedin.com/in/nebeyou-musie)
  - Gmail: nebeyoumusie@gmail.com
  - Telegram: [Nebeyou Musie](https://t.me/NebeyouMusie)
