@@ -6,9 +6,11 @@ from config import load_config
 # Load the environment variables
 load_config()
 
-st.title('Hello there 👋')
-
 user_input = st.chat_input('start typing')
+
+if not user_input: 
+    st.title('Hello there 👋')
+
 
 model_choice = st.sidebar.selectbox('Choose Model', ('LLaMA3 8b', 'LLaMA3 70b', 'Mixtral 8x7b', 'Gemma 7b'))
 
