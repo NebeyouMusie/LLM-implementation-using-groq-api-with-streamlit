@@ -21,10 +21,10 @@
     - `python -m venv venv`
     - `source venv/bin/activate`
  4. Navigate to the projects directory `cd ./LLM-implementation-using-groq-api-with-streamlit` using your terminal
- 4. Install Libraries: `pip install -r requirements.txt`
- 5. run `streamlit run app.py`
- 6. Open the link displayed in the terminal on your browser
- 7. Start typing on the chat box
+ 5. Install Libraries: `pip install -r requirements.txt`
+ 6. run `streamlit run app.py`
+ 7. Open the link displayed in the terminal on your browser
+ 8. Start typing on the chat box
 
 ## Contributions
  - Contributions are welcomed
